@@ -118,6 +118,7 @@ Generate:
 # 📸 Project Screenshots
 
 ## Loan Dataset
+<img width="1600" height="579" alt="loan-dataset png" src="https://github.com/user-attachments/assets/f1d730eb-c4e8-4833-9fb0-8e7562af424e" />
 
 <img src="./loan-dataset.png" width="1000"/>
 
@@ -147,6 +148,8 @@ Workflow showing:
 ---
 
 ## Approval Email
+<img width="1522" height="582" alt="approval-email png" src="https://github.com/user-attachments/assets/48e7e213-cf8a-4c78-b0ab-599b38cd8931" />
+
 
 <img src="./approval-email.png" width="1000"/>
 
@@ -155,6 +158,8 @@ Automated email sent to approved applicants.
 ---
 
 ## Rejection Email
+<img width="1518" height="448" alt="rejection-email png" src="https://github.com/user-attachments/assets/3f38c5d9-2117-4b96-93cc-746e0c6023fe" />
+
 
 <img src="./rejection-email.png" width="1000"/>
 
@@ -163,6 +168,8 @@ Automated notification sent to rejected applicants.
 ---
 
 ## Compliance Alert
+<img width="1535" height="553" alt="compliance-alert png" src="https://github.com/user-attachments/assets/eb8d68d9-ae7d-4ee4-9e08-0fda145c4479" />
+
 
 <img src="./compliance-alert.png" width="1000"/>
 
