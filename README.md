@@ -132,6 +132,8 @@ Shows:
 ---
 
 ## n8n Workflow Architecture
+<img width="1522" height="582" alt="approval-email png" src="https://github.com/user-attachments/assets/120b0205-844d-4a33-bb25-4eea1c07a053" />
+
 
 <img src="./workflow-architecture.png" width="1000"/>
 
